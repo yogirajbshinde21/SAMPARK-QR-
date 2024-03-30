@@ -14,7 +14,6 @@
     ],
     "env": {
       "FLASK_ENV": "production"
-    },
-    "functions": { "hello": { "runtime": "python3.8" } }
+    }
   }
   
