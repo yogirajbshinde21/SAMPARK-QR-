@@ -109,7 +109,7 @@ img {
 }
 
 .heroimage1{
-    background-image: url(/static/w1\ \(2\).jpeg);
+    background-image: url("/static/w2.jpeg");
     background-size: cover;
     background-position: center;
     color: #333;
@@ -122,7 +122,7 @@ img {
 }
 
 .heroimage2{
-    background-image: url(/static/invincible-iron-man-1-main-cover-header.jpg);
+    background-image: url("/static/invincible-iron-man-1-main-cover-header.jpg");
     background-size: cover;
     background-position: center;
     color: #333;
